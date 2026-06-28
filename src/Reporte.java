@@ -1,2 +1,3 @@
-public class Reporte {
+public interface Reporte {
+    void ejecutarPrueba();
 }
